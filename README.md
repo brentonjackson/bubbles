@@ -1,7 +1,7 @@
 # Bubbles
 
 
-https://brentonjackson.github.io/bubbles/
+[Bubbles](https://kind-cray-2ee7ea.netlify.app/)
 
 Relax and play until your heart's content!
 
